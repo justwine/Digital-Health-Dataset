@@ -1,0 +1,12 @@
+name: SleepHealth
+title: SleepHealth
+username: justine12
+account: justine12
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13856098
+bundleId: 9723370
+url: https://justine12.shinyapps.io/SleepHealth/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
